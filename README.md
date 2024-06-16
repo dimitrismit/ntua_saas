@@ -5,6 +5,8 @@ Members:
 2) Dimitris Mitropoulos
 3) Haris Botsas
 
+If you want to check the project specifications, as given to us check [here](https://github.com/dimitrismit/ntua_saas/tree/main/assignment)
+
 ## myCharts: Charts made easy.
 
 <p align="center">
