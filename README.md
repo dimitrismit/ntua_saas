@@ -1,5 +1,10 @@
 # NTUA ECE SAAS 2023 PROJECT - TEAM 07
 
+Members:
+1) Nikos Pagonas
+2) Dimitris Mitropoulos
+3) Haris Botsas
+
 ## myCharts: Charts made easy.
 
 <p align="center">
